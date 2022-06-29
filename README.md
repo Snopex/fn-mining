@@ -1,2 +1,6 @@
 # fn-mining
-# mining
+Mining Script for QBCore
+
+# Dependencies
+
+
